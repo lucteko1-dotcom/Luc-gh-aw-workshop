@@ -13,7 +13,7 @@ engine: copilot
 safe-outputs:
   mentions: false
   allowed-github-references: []
-  max-bot-mentions: 0
+  max-bot-mentions: 1
   create-issue:
     title-prefix: "[weekly-report] "
     close-older-issues: true
